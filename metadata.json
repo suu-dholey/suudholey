@@ -1,0 +1,5 @@
+{
+  "name": "International Bank Safi",
+  "description": "A premium banking dashboard featuring account management, transactions, cards, and an AI-powered financial assistant using Gemini.",
+  "requestFramePermissions": []
+}
